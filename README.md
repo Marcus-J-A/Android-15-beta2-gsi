@@ -4,6 +4,6 @@
 - Method via dsu sideloader A14 specific gsi (Project elixir)
 
 
-|Confirmed|Image|Gsi Method|Links|Sources|
-|:-:|:-:|:-:|:-:|:-:|
-|Yes this method is works but not on all S10 devices.|AOSP|Project Elixir|[Download](https://projectelixiros.com/device/beyond1lte)|15 May|
+|Confirmed|Gsi Method|Links|
+|:-:|:-:|:-:|
+|Yes this method is works but not on all S10 devices.|AOSP|Project Elixir|[Download](https://projectelixiros.com/device/beyond1lte)
