@@ -15,3 +15,11 @@
 |Confirmed|Method|GSI or ROM|Download|
 |:-:|:-:|:-:|:-:|
 |Not sure. This method is 76% chance it can work but its untested.|Google GSI|GSI|[Download](https://dl.google.com/developers/android/udc/images/gsi/gsi_gms_arm64-exp-UQ1A.231205.015-11084887-2026a0e7.zip)|
+
+## Samsung Galaxy A04e
+- Method via dsu sideloader A14 specific GSI
+
+
+|Confirmed|Method|GSI or ROM|Download|
+|:-:|:-:|:-:|:-:|
+|Works. But make sure your model is A042F not A042M|Google GSI|GSI|[Download](https://dl.google.com/developers/android/udc/images/gsi/gsi_gms_arm64-exp-UQ1A.231205.015-11084887-2026a0e7.zip)|
