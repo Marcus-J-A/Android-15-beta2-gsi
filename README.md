@@ -41,9 +41,14 @@
 |Works.|Google GSI|GSI|[Download](https://dl.google.com/developers/android/udc/images/gsi/gsi_gms_arm64-exp-UQ1A.231205.015-11084887-2026a0e7.zip)|
 
 ### OTA method
+
+|Confirmed|Method|GSI or ROM|Download|
 |:-:|:-:|:-:|:-:|
-|Works.|Google OTA|OTA|[Download](https://www.google.com/android/beta)|
+|Works.|Google GSI|GSI|[Download](https://dl.google.com/developers/android/udc/images/gsi/gsi_gms_arm64-exp-UQ1A.231205.015-11084887-2026a0e7.zip)|
+
 
 ### Android Flash Tool method
+
+|Confirmed|Method|GSI or ROM|Download|
 |:-:|:-:|:-:|:-:|
-|Works.|Google|Android Flash Tool|[Download](https://flash.android.com/welcome)|
+|Works.|Google GSI|GSI|[Download](https://dl.google.com/developers/android/udc/images/gsi/gsi_gms_arm64-exp-UQ1A.231205.015-11084887-2026a0e7.zip)|
