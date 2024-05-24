@@ -42,10 +42,13 @@
 
 - Method OTA
 
+
 |:-:|:-:|:-:|:-:|
 |Works.|Google OTA|OTA|[Download](https://www.google.com/android/beta)|
 
+
 - Method Android Flash Tool
+
 
 |:-:|:-:|:-:|:-:|
 |Works.|Google|Android Flash Tool|[Download](https://flash.android.com/welcome)|
