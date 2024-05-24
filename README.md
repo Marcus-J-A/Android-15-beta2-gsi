@@ -52,3 +52,8 @@
 |Confirmed|Method|GSI,ROM,OTA|Download|
 |:-:|:-:|:-:|:-:|
 |Works.|Google|Flash Tool|[Download](https://flash.android.com/welcome)|
+
+# Your device not on the list?
+- That most likely means the device WONT be worked on or i just dont know about it.
+
+- You can request your device at my discord DMs @marcusj.mj
