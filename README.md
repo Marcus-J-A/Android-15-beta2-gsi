@@ -1,1 +1,1 @@
-# Android-15-beta2-gsi
+# Android 15 beta 2 gsi compatibility list.
