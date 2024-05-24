@@ -6,4 +6,4 @@
 
 |Confirmed|Gsi Method|Links|
 |:-:|:-:|:-:|
-|Yes this method is works but not on all S10 devices.|AOSP|Project Elixir|[Download](https://projectelixiros.com/device/beyond1lte)
+|Yes this method is works but not on all S10 devices.|Project Elixir|Custom ROM|[Download](https://projectelixiros.com/device/beyond1lte)
